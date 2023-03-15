@@ -23,8 +23,9 @@
 
         <sonar.sources>src/main/java/</sonar.sources>
         <sonar.projectKey>woaichikaorou_test</sonar.projectKey>
-        <sonar.login>0c4000ea7d4fa3728fb849dfb52b140905f2b338</sonar.login>
-        <sonar.branch.name>main</sonar.branch.name>
+
+<!--        <sonar.login>4baa32ed093d0b67c909df40439bc62a7894ec16</sonar.login>-->
+<!--        <sonar.branch.name>main</sonar.branch.name>-->
 
     </properties>
 
